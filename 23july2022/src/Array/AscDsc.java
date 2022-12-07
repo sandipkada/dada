@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class AscDsc {
 
     public static void main(String[] args) {
-		int s[]= {10,70,60,30,20,98};
+		int s[]= {10,20,30,40,50,60};
 		System.out.println("..............Array all info.........");
 		
 		for(int i=0;i<=s.length-1;i++) {
